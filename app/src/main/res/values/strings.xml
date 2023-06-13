@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheckAll</string>
+    <string name="check_all">전체 선택</string>
+</resources>
